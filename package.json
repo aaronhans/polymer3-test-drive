@@ -1,0 +1,22 @@
+{
+  "name": "@zaplabs/polynext",
+  "version": "1.0.0",
+  "description": "Sample navigation built with polymer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "polymer serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.0-pre.1",
+    "@polymer/iron-icons": "^3.0.0-pre.1",
+    "@polymer/paper-item": "^3.0.0-pre.1",
+    "@polymer/paper-listbox": "^3.0.0-pre.1",
+    "@polymer/paper-tabs": "^3.0.0-pre.1",
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@webcomponents/webcomponentsjs": "^1.0.11"
+  }
+}
