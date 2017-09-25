@@ -17,4 +17,4 @@ The cost is 54K(after gzip) of library weight without any polyfills. The benefit
 
 Sample Hello World <a href="https://aaronhans.github.io/polymer3-test-drive/hello-bundle.html">demo</a>
 
-The responsive header polymer demo based on several off the shelf polymer components <a href="https://aaronhans.github.io/polymer3-test-drive/index-bundle.html">demo</a>. There is no custom code here, the polymer tutorial code is just modified to be a standard web component
+The responsive header polymer demo based on several off the shelf polymer components <a href="https://aaronhans.github.io/polymer3-test-drive/index-bundle.html">demo</a>. There is no custom code here, the polymer menu tutorial code is just modified to use the standard web component style
