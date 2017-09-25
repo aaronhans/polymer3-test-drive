@@ -10,3 +10,7 @@ To run locally
 npm install
 polymer serve --open
 ```
+
+Sample Hello World <a href="https://aaronhans.github.io/polymer3-test-drive/hello.html">demo</a>
+
+Full responsive header demo based on several off the shelf polymer components <a href="https://aaronhans.github.io/polymer3-test-drive/index-bundle.html">demo</a>
