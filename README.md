@@ -9,8 +9,8 @@ npm install
 polymer serve --open
 ```
 
-The web component coding style in Polymer 3 is very similar to what we are doing with plain web components see <a href="https://github.com/aaronhans/polymer3-test-drive/blob/master/src/hello-world.js"">Hello World component code</a>.
-The differences are the extension of PolymerElement and a polymer specific template syntax used by default. The template syntax can be replaced with template literals using <a href="https://github.com/PolymerLabs/lit-html/tree/next">lit-html</a> or <a href="https://github.com/WebReflection/hyperHTML">hyperHTML</a>.
+Creating a web component based on Polymer 3 is very similar to a plain web component, see <a href="https://github.com/aaronhans/polymer3-test-drive/blob/master/src/hello-world.js">Hello World component code</a>.
+The differences are the extension of PolymerElement and a polymer specific template syntax used by default. The template syntax can be replaced with template literals using <a href="https://github.com/PolymerLabs/lit-html/tree/next">lit-html</a>.
 
 The cost is 54K(after gzip) of library weight without any polyfills. The benefit is access to the polymer component library and advanced capabilities like polymer's <a href="https://www.polymer-project.org/1.0/docs/devguide/data-system">data system</a>.
 
